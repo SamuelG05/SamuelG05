@@ -9,6 +9,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yara-Js" height="30" width="40" src="https://www.ibexpert.net/ibe/uploads/Main/NewIBELogo_full.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://agilefacil.s3.sa-east-1.amazonaws.com/agilesite/download7d1ca0db-9f13-461a-96e9-843a777bfd09.jpeg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png">
 </div>
  
  ##
