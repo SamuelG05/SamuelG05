@@ -8,7 +8,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Yara-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1045848232686784582/1086116049126183013/SAVE_20220928_105053.jpg">
 </div>
  
  ##
