@@ -1,4 +1,4 @@
-<h1>Opa, eu sou Samuel...</h1>
+<h1>Prazer, Samuel...</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelG05&show_icons=true&theme=radical)
 
