@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yara-Js" height="30" width="40" src="https://www.ibexpert.net/ibe/uploads/Main/NewIBELogo_full.png">
-  <img align="center" alt="FireBird" height="30" width="40" src="https://sgdeveloper.com.br/imgs/firebirdgit.png">
+  <img align="center" alt="FireBird" height="30" width="40" src="https://sgdeveloper.com.br/imgs/firebirdgit2.png">
 </div>
  
  ##
