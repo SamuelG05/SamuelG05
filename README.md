@@ -7,7 +7,9 @@
   <img align="center" alt="Python" height="50" width="50" src="https://sgdeveloper.com.br/imgs/pythongit.png">
   <img align="center" alt="Ibe" height="50" width="50" src="https://sgdeveloper.com.br/imgs/ibegit.png">
   <img align="center" alt="FireBird" height="50" width="50" src="https://sgdeveloper.com.br/imgs/firebirdgit2.png">
-  <img align="center" alt="FireBird" height="50" width="50" src="https://sgdeveloper.com.br/imgs/phpgit.png">
+  <img align="center" alt="PHP" height="50" width="50" src="https://sgdeveloper.com.br/imgs/phpgit.png">
+  <img align="center" alt="MySql" height="50" width="50" src="https://sgdeveloper.com.br/imgs/mysql.png">
+  <img align="center" alt="Trello" height="50" width="50" src="https://sgdeveloper.com.br/imgs/trello.png">
 </div>
  
  ##
