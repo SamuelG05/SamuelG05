@@ -16,7 +16,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🔍 **QA** na **Fácil Sistemas LTDA** — Remoto
-- 📍 Turmalina, Minas Gerais, Brasil
+- 📍 Minas Gerais, Brasil
 - 🤖 Criação, refatoração e manutenção de **automações** com **AutoIt3**
 - 🐍 Especialista em **Python** — desktop apps, exportação de dados e integrações com ERPs
 - 🗄️ Experiência com bancos de dados **Firebird**, **MySQL** e ferramentas como **IBExpert**
