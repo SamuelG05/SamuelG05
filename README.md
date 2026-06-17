@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E44F9C&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Samuel+Gonçalves+👋;Desenvolvedor+Python+%26+PHP;Apaixonado+por+automação+e+dados;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E44F9C&center=true&vCenter=true&width=650&lines=Ola%2C+eu+sou+Samuel+Goncalves!+%F0%9F%91%8B;Desenvolvedor+Python+%26+PHP;QA+na+Facil+Sistemas+LTDA;Automacao+%7C+Dados+%7C+Qualidade)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,11 +15,12 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🚀 Desenvolvedor focado em **automação**, **integração de sistemas** e **ferramentas internas**
-- 🐍 Especialista em **Python** com experiência em desktop apps, exportação de dados e ERPs
-- 🗄️ Trabalho com bancos de dados **Firebird**, **MySQL** e integrações via **IBExpert**
-- 🌐 Também atuo com desenvolvimento **PHP** e soluções web
-- 📍 Brasil
+- 🔍 **QA** na **Fácil Sistemas LTDA** — Turmalina, Minas Gerais, Brasil
+- 🤖 Criação, refatoração e manutenção de **automações** com **AutoIt3** e **Python**
+- 🐍 Especialista em **Python** — desktop apps, exportação de dados e integrações com ERPs
+- 🗄️ Experiência com bancos de dados **Firebird**, **MySQL** e ferramentas como **IBExpert**
+- 🌐 Desenvolvimento **PHP** e soluções web
+- 🌍 [sgdeveloper.com.br](https://sgdeveloper.com.br)
 
 ---
 
@@ -41,6 +42,7 @@
 
 <br/><br/>
 
+![AutoIt3](https://img.shields.io/badge/AutoIt3-1C3552?style=flat-square&logo=autoit&logoColor=white)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
