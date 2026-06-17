@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E44F9C&center=true&vCenter=true&width=650&lines=Ola%2C+eu+sou+Samuel+Goncalves!+%F0%9F%91%8B;Desenvolvedor+Python+%26+PHP;QA+na+Facil+Sistemas+LTDA;Automacao+%7C+Dados+%7C+Qualidade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E44F9C&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Samuel+Goncalves!+%F0%9F%91%8B;Desenvolvedor+Python+%26+PHP;QA+na+Facil+Sistemas+LTDA;Automacao+%7C+Dados+%7C+Qualidade)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,8 +15,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔍 **QA** na **Fácil Sistemas LTDA** — Turmalina, Minas Gerais, Brasil
-- 🤖 Criação, refatoração e manutenção de **automações** com **AutoIt3** e **Python**
+- 🔍 **QA** na **Fácil Sistemas LTDA** — Remoto
+- 📍 Turmalina, Minas Gerais, Brasil
+- 🤖 Criação, refatoração e manutenção de **automações** com **AutoIt3**
 - 🐍 Especialista em **Python** — desktop apps, exportação de dados e integrações com ERPs
 - 🗄️ Experiência com bancos de dados **Firebird**, **MySQL** e ferramentas como **IBExpert**
 - 🌐 Desenvolvimento **PHP** e soluções web
